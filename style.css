@@ -1,0 +1,65 @@
+
+nav{
+    display: flex;
+    justify-content: flex-start;
+}
+.jumbotron{
+    
+    width: 100%;
+}
+.book-image{
+    background-image: url(images/logo.png);
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    width: 50px;
+}
+.book-dicription{
+    margin-left:20px; 
+}
+td{
+    margin-top:0px; 
+}
+.section2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.addsubdiv{
+    width: 30px;
+}
+
+.div-body{
+    display: flex;
+        border: 1px solid #f3f3f3;
+    width:70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    padding: 20px;
+}
+#book-image-2{
+    background-image: url(images/book.png);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    min-height: 170px;
+    min-width: 160px;
+}
+.inner-div{
+    margin-left: 2%;
+}
+#dollor{
+    color: #77ba65;
+}
+.form-group{
+    display: flex;
+    justify-content: flex-end; 
+}
+#inputSmall{
+    width: 50px;
+}
+#div-result{
+    display: flex;
+    justify-content: center;
+}
